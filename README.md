@@ -30,9 +30,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: Syed Mohamed Raihan M
+### Name: SUBASH B
 
-### Register Number: 212224240167
+### Register Number: 212224220108
 
 
 ```PYTHON
@@ -232,30 +232,21 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ### OUTPUT
 
-<img width="486" height="818" alt="image" src="https://github.com/user-attachments/assets/26799a4f-cc48-427d-ae93-85dd63d0c2ae" />
-
-
 ## Training Loss, Validation Loss Vs Iteration Plot
-
-<img width="703" height="657" alt="image" src="https://github.com/user-attachments/assets/b7122d73-f3ed-4556-87ce-6b3155cedef2" />
-
+![WhatsApp Image 2026-03-19 at 6 12 32 PM](https://github.com/user-attachments/assets/d061a91c-1c89-464a-a656-9b6490b26daf)
 
 
 ## Confusion Matrix
-
-<img width="687" height="603" alt="image" src="https://github.com/user-attachments/assets/fdcd73d1-a104-49d2-a664-14d95b6423f5" />
+![WhatsApp Image 2026-03-19 at 6 12 34 PM](https://github.com/user-attachments/assets/c0f65fdb-1e05-49ee-8a79-fed9368b7ad4)
 
 
 ## Classification Report
-
-<img width="452" height="200" alt="image" src="https://github.com/user-attachments/assets/5dc2ff90-8204-4228-8a97-0f5f739f9b79" />
-
-
-### New Sample Data Prediction
-
-<img width="522" height="799" alt="image" src="https://github.com/user-attachments/assets/831d451c-fdc7-41ca-bf1f-0c3b36b99fbc" />
+![WhatsApp Image 2026-03-19 at 6 12 40 PM](https://github.com/user-attachments/assets/93421390-62d4-49b1-81f6-ac9cab1a61d6)
 
 
 ## RESULT
 
-Thus the python program to develop an image classification model using transfer learning with VGG19 architecture is executed successfully.
+The image classification model using transfer learning with VGG19 architecture for the given dataset has been executed successfully.
+
+
+
